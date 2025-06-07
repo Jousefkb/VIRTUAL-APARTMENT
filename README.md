@@ -14,11 +14,19 @@ In this project, a new method has been developed that allows users to upload pan
 
 ![1. Environment, In-app view of the first environment](screenshots/2.png)
 
+- We can see the transformation of a 90 degree photo to In-app view.
+
 ![2. Environment, 360-Degree Photo, Home Veranda](screenshots/4.jpg)
 
 ![2. Environment, 360-Degree Photo, Home Veranda](screenshots/3.png)
 
+- We can see the transformation of a 360 degree photo to In-app view.
+
 ![Door Object](screenshots/5.png)
 
+- Door object that can usage as portal
+
 ![Selecting a Photo for the Door](screenshots/6.png)
+
+- Photo selection screen
  
