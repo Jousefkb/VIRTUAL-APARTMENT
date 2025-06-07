@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\NewProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\panelcameralooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\panelcameralooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\portalsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\portalsquare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\spherechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spherechanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\spherecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spherecreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\togglecanvasvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\togglecanvasvisibility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\mouseclickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouseclickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\messageboxsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\messageboxsphere.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\ecanvaskapatbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ecanvaskapatbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\doorbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorbuttonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\buttontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttontrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\newproject\\assets\\scripts\\btn_clickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C14AE5-1D01-3179-C1CD-FA0858BD35C2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\btn_clickhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ToggleCanvasVisibility.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\ToggleCanvasVisibility.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToggleCanvasVisibility.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\ToggleCanvasVisibility.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToggleCanvasVisibility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:56.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SphereCreator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\SphereCreator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SphereCreator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\SphereCreator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SphereCreator.cs",
+              "ViewState": "AQIAAK8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:56.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SphereChanger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\SphereChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SphereChanger.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\SphereChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SphereChanger.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:55.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PortalSquare.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\PortalSquare.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PortalSquare.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\PortalSquare.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PortalSquare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:55.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PanelCameraLooking.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\PanelCameraLooking.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PanelCameraLooking.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\PanelCameraLooking.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PanelCameraLooking.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:55.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MouseClickHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\MouseClickHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseClickHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\MouseClickHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseClickHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:55.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageBoxSphere.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\MessageBoxSphere.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MessageBoxSphere.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\MessageBoxSphere.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MessageBoxSphere.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:55.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ECanvasKapatButton.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\ECanvasKapatButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ECanvasKapatButton.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\ECanvasKapatButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ECanvasKapatButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:54.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ButtonTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\ButtonTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ButtonTrigger.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\ButtonTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ButtonTrigger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Btn_ClickHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\Btn_ClickHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Btn_ClickHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\Btn_ClickHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Btn_ClickHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:43:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorButtonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\DoorButtonHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorButtonHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\NewProject\\Assets\\Scripts\\DoorButtonHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorButtonHandler.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T19:01:40.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
